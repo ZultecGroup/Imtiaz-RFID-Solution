@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZulLabel", "ZulLabel.csproj", "{1CB50CF6-920F-48DE-BB3D-E336221EA55A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ZulLabelRFID", "..\ZulLabelRFID\ZulLabelRFID.vdproj", "{67EBA590-0C03-49D9-AFA9-777D61B1E407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB50CF6-920F-48DE-BB3D-E336221EA55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB50CF6-920F-48DE-BB3D-E336221EA55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB50CF6-920F-48DE-BB3D-E336221EA55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB50CF6-920F-48DE-BB3D-E336221EA55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EBA590-0C03-49D9-AFA9-777D61B1E407}.Debug|Any CPU.ActiveCfg = Debug
+		{67EBA590-0C03-49D9-AFA9-777D61B1E407}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCCA540B-370B-4687-85B9-70DC64E97F11}
+	EndGlobalSection
+EndGlobal

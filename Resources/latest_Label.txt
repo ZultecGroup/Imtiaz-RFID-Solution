@@ -1,0 +1,21 @@
+^XA
+^MMT
+^PW900
+^LL0144
+^LS0
+
+^FO75,75^BY2^BCN,35,Y,N,N^FD#epc^FS
+
+^RFW,H^FD#forrfid^FS
+^FT15,45^A0N,17,16^FH\^FD#model^FS   ; Moved down from 30 to 45
+^FT15,66^A0N,17,16^FH\^FD#desc^FS    ; Moved down from 51 to 66
+^FT15,147^A0N,22,21^FH\^FD#size^FS   ; Moved down from 132 to 147
+^FT251,147^A0N,17,16^FH\^FDSAR^FS    ; Moved down from 132 to 147
+^FT290,147^A0N,22,21^FH\^FD#price^FS ; Moved down from 132 to 147
+
+^FX QR Code
+^FT270,75^BQN,2,2^FH\^FDLA,#qr^FS    ; Moved down from 60 to 75
+
+^PQ1,0,1,Y
+
+^XZ
